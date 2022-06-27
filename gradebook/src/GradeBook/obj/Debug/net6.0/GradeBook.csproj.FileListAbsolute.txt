@@ -1,0 +1,15 @@
+/home/hoko/csharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook
+/home/hoko/csharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.deps.json
+/home/hoko/csharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/home/hoko/csharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.dll
+/home/hoko/csharp/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.pdb
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.AssemblyReference.cache
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfoInputs.cache
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfo.cs
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.CoreCompileInputs.cache
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.dll
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/refint/GradeBook.dll
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.pdb
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.genruntimeconfig.cache
+/home/hoko/csharp/gradebook/src/GradeBook/obj/Debug/net6.0/ref/GradeBook.dll
