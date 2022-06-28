@@ -3,18 +3,10 @@ namespace GradeBook.Tests;
 public class BookTests
 {
 	[Fact]
-	public void Test1()
-	{
-		var book = new Book("");
-		book.AddGrade(105);
-
-		var result = book.GetStatistics;
-	}
-	[Fact]
 	public void BookCalculatesAnAverageGrade()
 	{
 		// arrange
-		var book = new Book("");
+		var book = new InMemoryBook("");
 		book.AddGrade(89.1);
 		book.AddGrade(90.5);
 		book.AddGrade(77.3);
@@ -26,6 +18,6 @@ public class BookTests
 		Assert.Equal(85.6, result.Average, 1);
 		Assert.Equal(90.5, result.High, 1);
 		Assert.Equal(77.3, result.Low, 1);
-		Assert.Equal('B', result.letter);
+		Assert.Equal('B', result.Letter);
 	}
 }
